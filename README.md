@@ -1,6 +1,6 @@
 # Crypto Exchange Rate
 
-A React web application that displays the latest cryptocurrency exchange rates in various fiat currencies. This project uses the Alpha Vantage API, Ant Design for UI components, and React Query for data fetching.
+A simple React web application that displays the latest cryptocurrency exchange rates in various fiat currencies. This project uses the Alpha Vantage API, Ant Design for UI components, and React Query for data fetching.
 
 ## Features
 
