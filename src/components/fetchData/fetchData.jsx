@@ -10,7 +10,7 @@ export function getExchangeRate(fromCurrency, toCurrency) {
             to_currency: toCurrency
         },
         headers: {
-            'X-RapidAPI-Key': '3687c9ecfbmshdc64ae90cc808f7p13e266jsn7e2cadeeaf76', // Your provided API key
+            'X-RapidAPI-Key': '3687c9ecfbmshdc64ae90cc808f7p13e266jsn7e2cadeeaf76', 
             'X-RapidAPI-Host': 'alpha-vantage.p.rapidapi.com'
         }
     };
